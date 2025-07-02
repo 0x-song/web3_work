@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "number",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "reduce",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"exceed.sol": "Exceed"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"exceed.sol": {
+			"keccak256": "0xe85b09a83de2efd371fa32d77d556f52377345d90512cfa0a71e0e1ea33a5296",
+			"license": "SEE LICENSE IN LICENSE",
+			"urls": [
+				"bzz-raw://43294c84e204f2759b362d388e5aa957e8bbebbdc5914ca3f50bdb0b3afa0538",
+				"dweb:/ipfs/QmT8odxgdAjtXdtufGUQiJxumyWf2cxGAC6gpRWqdeG2qv"
+			]
+		}
+	},
+	"version": 1
+}
